@@ -21,3 +21,5 @@
 第十步：提交代码 git push -u origin master
 
 第十一步：修改操作，重复第7 8 步，简化第10步为，git push
+
+#### 接下来要拉取远程的代码了 // 命令是 git pull  
